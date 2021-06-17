@@ -1,0 +1,18 @@
+{
+    "firstName": "Ricky",
+    "lastName": "Lickity",
+    "titles": [
+      "master chef",
+      "baker",
+      "sushi chef"
+    ],
+    "hasKids": false,
+    "favoriteColor": "gold",
+    "ownsRestaurant": true,
+    "favoriteNumber": 123,
+    "object": {
+      "a": "b",
+      "c": "d"
+    },
+    "about": "Master chef with 18 years of exerience. Owner of 'Chez Bastarde'."
+  }
